@@ -7,26 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 An interactive web-based tool for modeling the economic impact of older worker employment policies and interventions, featuring AI-powered policy recommendations and real-time impact analysis.
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Deployment](#deployment)
-- [How It Works](#how-it-works)
-- [Methodology](#methodology)
-- [Technology Stack](#technology-stack)
-- [API Configuration](#api-configuration)
-- [Usage Guide](#usage-guide)
-- [Project Structure](#project-structure)
-- [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## 🌍 Overview
 
 The **Policy Impact Simulator** is a data-driven decision-support tool designed to help policymakers, economists, and researchers quantify the economic benefits of policies aimed at retaining senior workers (age 55+) in the workforce.
