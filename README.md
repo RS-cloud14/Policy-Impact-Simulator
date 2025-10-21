@@ -99,7 +99,7 @@ This simulator provides:
 
 ## 🎬 Live Demo
 
-**[View Live Demo](#)** *(Add your deployed Netlify URL here)*
+**[View Live Demo](#)** *(https://spiffy-donut-206296.netlify.app/)*
 
 **Try This:**
 1. Select "High Intervention" scenario
