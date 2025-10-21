@@ -1,5 +1,3 @@
-# Policy-Impact-Simulator
-Interactive policy simulator modeling economic impact of senior worker employment policies. Real-time GDP, tax, EPF analysis with AI-powered recommendations. Built with vanilla JavaScript + Google Gemini AI.
 # 🎯 Policy Impact Simulator
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
